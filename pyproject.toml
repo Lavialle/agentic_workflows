@@ -8,4 +8,5 @@ dependencies = [
     "google-cloud-aiplatform>=2.4.0",
     "google-cloud-bigquery>=3.46.1",
     "google-cloud-storage>=3.16.0",
+    "truststore>=0.10.4",
 ]
